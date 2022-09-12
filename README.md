@@ -51,7 +51,6 @@ The <b>Community Explorer</b> groups a wide variety of data—from economic and 
 
  **Select or search a county, profile, or group of profiles using the drop-down menus on the top of the map. Use drop-down menus on the top of charts to select different information; the corresponding charts compare the county, profile, and US information. <b>-><a href="https://drive.google.com/file/d/1a6a9QuZmtmfRpL1TJHbsiGIFaaH10cVz/view?usp=sharing" target="_blank"> More details on variables in the charts here </a></b>
 
-<br>
 <H2>Interactive Map for the 17 Population Profiles</H2>
 
 <iframe src="https://ceproject.azurewebsites.net/" frameborder="0" height="1000" width="100%" padding="0" margin="0" allowfullscreen="allowfullscreen"></iframe>
