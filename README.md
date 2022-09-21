@@ -83,7 +83,7 @@ The <b>Community Explorer</b> groups a wide variety of data—from economic and 
 <br>
 <br><b>Noncontiguous America</B> captures 0.42% of the U.S. population spread across 34 counties that combine all Hawaiian and nine Alaskan counties.
 <br><b>14-Hawaii =></b> The Aloha State with high racial and ethnic diversity, high income, and relatively low-income inequality (0.4% of the population)
-<br><b>17-Native Alaskan =></b> Alaskan communities with large economic gaps between the White and Alaska Native populations (0.02% of the population)
+<br><b>17-Native Alaska =></b> Alaskan communities with large economic gaps between the White and Alaska Native populations (0.02% of the population)
  
 <br><br>
 <Bh>
