@@ -58,16 +58,16 @@ The <b>Community Explorer</b> groups a wide variety of data—from economic and 
 <br>
 <b>These profiles can be summarized as follows:</b>
 <br>
-<br><b>Mainstream America</B> captures 74% of the U.S. population spread across 819 urban core, suburban, and small metro counties.
+<br><b>Urban America</B> captures 74% of the U.S. population spread across 819 urban core, suburban, and small metro counties.
 <br><b>1-Urban-Core =></b> Prosperous, ethnically and linguistically diverse large metro areas with substantial disparities between their highly educated (largely White ) and less educated (largely Black or African American) residents (26% of the population)
-<br><b>2-Lower-middle Class  =></b> Less populous suburban and small metro counties that are not as economically prosperous as the rest of Mainstream America (18% of the population)
+<br><b>2-Lower-Middle Class  =></b> Less populous suburban and small metro counties that are not as economically prosperous as the rest of Mainstream America (18% of the population)
 <br><b>3-Affluent Suburbs =></b> Affluent and more populous (but less diverse) suburban and small metro counties that jointly represent the profile with the highest median income (16% of the population)
 <br><b>4-Middle Class =></b> Middle-class communities with a largely White population that resides in large- to medium-sized suburban and small metro counties (14% of the population)
 <br>
-<br><b>Industry-driven America</B> captures 17% of the U.S. population spread across 1507 counties in which employment is concentrated in one industry that shapes all aspects of the population's profile.
+<br><b>Industry-Driven America</B> captures 17% of the U.S. population spread across 1507 counties in which employment is concentrated in one industry that shapes all aspects of the population's profile.
 <br><b>5-College Towns =></b> College towns with a relatively young, highly educated, and highly geographically mobile population (5.4% of the population)
 <br><b>6-Manufacturing Midwest =></b> Counties primarily located in the Midwest that form the profile with the highest proportion of White population working in the manufacturing sector (5.2% of the population) 
-<br><b>7-Low-wage Manufacturing =></b> Low-wage workers in the manufacturing and chemical industries located largely in the South and North-East regions of the country, with an above-average proportion of the population living below the poverty line (4.9% of the population)
+<br><b>7-Low-Wage Manufacturing =></b> Low-wage workers in the manufacturing and chemical industries located largely in the South and North-East regions of the country, with an above-average proportion of the population living below the poverty line (4.9% of the population)
 <br><b>11-Hispanic Agriculture =></b> Highly agricultural communities with a higher than average concentration of Hispanic or Latino population residing mostly in the West and South (1.2% of the population)
 <br><b>15-The Great Plains =></b> => Agricultural counties located in the Great Plains with a high proportion of the White population (0.3% of the population)
 <br>
