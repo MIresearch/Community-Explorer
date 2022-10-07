@@ -45,7 +45,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-<H2><b> The Community Explorer (17 profiles based on 751 factors)</b> </H2> 
+<H2><b> The Community Explorer</b> </H2> 
 <H3><b>Bringing Populations' Diversity into Policy Discussions, one County at a Time</b></H3><Hr>
   
 
