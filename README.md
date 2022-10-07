@@ -45,7 +45,9 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-<H2><b> The Community Explorer (17 profiles based on 751 factors)</b> </H2> <Hr>
+<H2><b> The Community Explorer (17 profiles based on 751 factors)</b> </H2> 
+<H3><b>Bringing Populations' Diversity into Policy Discussions, one County at a Time</b></H3><Hr>
+  
 
 The <b>Community Explorer</b> groups a wide variety of data—from economic and demographic numbers to education, housing, and health features— at the county level to tell a deeper story than when using few indicators at one time. More specifically, it synthetizes the infortmation of 751 variables across 3142 counties from the Census Bureau’s American Community Survey using machine learning methods, into 17 communities. Each one of these communities has a distinctive profile that combines demographic, economic, and many other behavior determinants while not being geographically bounded.<b>-><a href="https://github.com/MIresearch/Community-Explorer-17-profiles/blob/master/OnePager_Github.pdf" target="_blank"> 1-pager about Community Explorer here </a></b> <b>-><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182037" target="_blank"> More details on the Community Explorer here </a></b>
 
