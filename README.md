@@ -51,10 +51,10 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 The <b>Community Explorer</b> is an interactive tool that brings the power of big data and machine learning to the equity-related policy discussion.
 It groups a wide variety of data—from economic and demographic numbers to education, housing, and health features— at the county level to tell a deeper story than when using few indicators at one time. More specifically, it synthetizes the infortmation of 751 variables across 3142 counties from the Census Bureau’s American Community Survey using machine learning methods, into 17 communities. Each one of these communities has a distinctive profile that combines demographic, economic, and many other behavior determinants while not being geographically bounded.<b><br><br>
-<a href="https://github.com/MIresearch/Community-Explorer-17-profiles/blob/master/OnePager_Github.pdf" target="_blank"><button class="button button2"><b>One-Pager</b></button></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182037" target="_blank"><button class="button button2"><b> Report </b></button></a>  <a href="https://ceproject.azurewebsites.net/" target="_blank"><button class="button button2"><b>Faster Interactive Tool</b></button></a><br>
+<a href="https://github.com/MIresearch/Community-Explorer-17-profiles/blob/master/OnePager_Github.pdf" target="_blank"><button class="button button2"><b>One-Pager</b></button></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182037" target="_blank"><button class="button button2"><b> Report </b></button></a>  <a href="https://ceproject.azurewebsites.net/" target="_blank"><button class="button button2"><b>Faster Interactive Tool</b></button></a><a href="https://drive.google.com/file/d/1a6a9QuZmtmfRpL1TJHbsiGIFaaH10cVz/view?usp=sharing" target="_blank"><button class="button button2"><b>Variables Descriptions</b></button></a><br><br>
 
  **Select or search a county, profile, or group of profiles using the drop-down menus on the top of the map. Use drop-down menus on the top of charts to select different information; the corresponding charts compare the county, profile, and US information. <b><br>
-<br>   <a href="https://drive.google.com/file/d/1a6a9QuZmtmfRpL1TJHbsiGIFaaH10cVz/view?usp=sharing" target="_blank"><button class="button button2"><b>Variables Descriptions</b></button></a><br><br>
+<br>   
 
 <iframe src="https://ceproject.azurewebsites.net/" frameborder="0" height="1000" width="100%" padding="0" margin="0" allowfullscreen="allowfullscreen"></iframe>
   
