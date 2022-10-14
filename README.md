@@ -30,15 +30,15 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
   
 
 <meta name="twitter:title" content="Community Explorer">
-<meta name="twitter:description" content="The Community Explorer sorts 751 behavioral, demographic, economic, and social factors across 3,192 US counties into 17 community profiles.">
-<meta name="twitter:image" content="https://claudelopez.com/wp-content/uploads/2022/03/Screenshot-2022-03-01-123706.png">
+<meta name="twitter:description" content="The Community Explorer is an interactive tool that brings the power of big data and machine learning to the equity-related policy discussion. It sorts 751 behavioral, demographic, economic, and social factors across 3,192 US counties into 17 community profiles.">
+<meta name="twitter:image" content="https://claudelopez.com/wp-content/uploads/2022/10/Screenshot-2022-10-14-160248.png">
 <meta name="twitter:card" content="summary_large_image">
 
 <meta property="og:title" content="Community Explorer">
 <meta property="og:description" content="The Community Explorer sorts 751 behavioral, demographic, economic, and social factors across 3,142 US counties into 17 community profiles. ;">
-<meta property="og:image" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
-<meta property="og:image:url" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
-<meta property="og:image:secure_url" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
+<meta property="og:image" content="https://claudelopez.com/wp-content/uploads/2022/10/Screenshot-2022-10-14-160248.png">
+<meta property="og:image:url" content="https://claudelopez.com/wp-content/uploads/2022/10/Screenshot-2022-10-14-160248.png">
+<meta property="og:image:secure_url" content="https://claudelopez.com/wp-content/uploads/2022/10/Screenshot-2022-10-14-160248.png">
 <meta property="og:url" content="https://miresearch.github.io/Community-Explorer/">
 
 </head>
@@ -52,7 +52,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 The <b>Community Explorer</b> is an interactive tool that brings the power of big data and machine learning to the equity-related policy discussion.<br>
   <br>
 It groups a wide variety of data—from economic and demographic numbers to education, housing, and health features— at the county level to tell a deeper story than when using few indicators at one time. More specifically, it synthetizes the infortmation of 751 variables across 3142 counties from the Census Bureau’s American Community Survey using machine learning methods, into 17 communities. Each one of these communities has a distinctive profile that combines demographic, economic, and many other behavior determinants while not being geographically bounded.<b><br><br>
-<a href="https://github.com/MIresearch/Community-Explorer-17-profiles/blob/master/OnePager_Github.pdf" target="_blank"><button class="button button2"><b>One-Pager</b></button></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182037" target="_blank"><button class="button button2"><b> Report </b></button></a>  <a href="https://ceproject.azurewebsites.net/" target="_blank"><button class="button button2"><b>Faster Interactive Tool</b></button></a>  <a href="https://github.com/MIresearch/Community-Explorer-17-profiles/blob/master/variable%20description.pdf" target="_blank"><button class="button button2"><b>Variables Descriptions</b></button></a>  <a href="https://www.canva.com/design/DAFOrOz2tBs/ynh37cBzxgADFpcmM6tG7Q/view#3" target="_blank"><button class="button button2"><b>How to use it?</b></button></a><br><br>
+<a href="https://github.com/MIresearch/Community-Explorer-17-profiles/blob/master/OnePager_Github.pdf" target="_blank"><button class="button button2"><b>One-Pager</b></button></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182037" target="_blank"><button class="button button2"><b> Report </b></button></a>  <a href="https://ceproject.azurewebsites.net/" target="_blank"><button class="button button2"><b>Faster Interactive Tool</b></button></a>  <a href="https://github.com/MIresearch/Community-Explorer-17-profiles/blob/master/variable%20description.pdf" target="_blank"><button class="button button2"><b>Variables Descriptions</b></button></a>  <a href="https://www.canva.com/design/DAFOrOz2tBs/ynh37cBzxgADFpcmM6tG7Q/view#3" target="_blank"><button class="button button2"><b>How to Use It?</b></button></a><br><br>
 
   
   
