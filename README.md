@@ -103,8 +103,8 @@ We recommend the following citation: Lopez, Claude and Hyeongyul Roh, Community 
 If you use it in an online presentation, we would appreciate it if you would link to the Milken Institute page at https://milkeninstitute.org/research/community-explorer-interactive-tool
 <br><br>
 <H2>Related Projects </H2>
--<a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> The Community Explorer (17 profiles based on 751 factors) </a> <br>
--<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> The Community Explorer  (8 profiles based on 26 factors) </a> <br>
+-<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> The Community Explorer (17 profiles based on 751 factors) </a> <br>
+-<a href="https://miresearch.github.io/Community-Explorer-8-profiles//" target="_blank"> The Community Explorer  (8 profiles based on 26 factors) </a> <br>
 -<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
 -<a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank"> COVID-19 Community Explorer (17 Profiles)</a> <br>
 -<a href="https://miresearch.github.io/COVID-19-Community-Explorer-8profiles/" target="_blank"> COVID-19 Community Explorer (8 Profiles)</a> <br>
