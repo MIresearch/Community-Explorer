@@ -99,7 +99,7 @@ Census Bureau's American Community Survey. <br>
 <Bh>
 <b>Attribution </b><br>
 If you use this data, please attribute it to "Milken Institute Community Explorer" in any publication. <br>
-We recommend the following citation: Lopez, C., Roh, H. and M. Switek, Community Explorer, Milken Institute (2022)<br>    
+We recommend the following citation: Lopez, C.and H. Roh, Community Explorer, Milken Institute (2022)<br>    
 If you use it in an online presentation, we would appreciate it if you would link to the Milken Institute page at https://milkeninstitute.org/research/community-explorer-interactive-tool
 <br><br>
 <H2>Related Projects </H2>
