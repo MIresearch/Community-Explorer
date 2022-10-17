@@ -96,7 +96,7 @@ It groups a wide variety of data—from economic and demographic numbers to educ
 <b>Data</b><br>
 Census Bureau's American Community Survey. <br>
 <br> <br>
-when using this data prelase refer to ""
+<Bh>
 <b>Attribution </b><br>
 If you use this data, please attribute it to "Milken Institute Community Explorer" in any publication. 
 We recommend the following citation: Lopez, C., Roh, H. and M. Switek, Community Explorer, Milken Institute (2022)    
