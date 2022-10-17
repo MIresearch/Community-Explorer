@@ -96,8 +96,11 @@ It groups a wide variety of data—from economic and demographic numbers to educ
 <b>Data</b><br>
 Census Bureau's American Community Survey. <br>
 <br> <br>
-
-
+when using this data prelase refer to ""
+<b>Attribution </b><br>
+If you use this data, please attribute it to "Milken Institute Community Explorer" in any publication. 
+We recommend the following citation: Lopez, C., Roh, H. and M. Switek, Community Explorer, Milken Institute (2022)    
+If you use it in an online presentation, we would appreciate it if you would link to the Milken Institute page at https://milkeninstitute.org/research/community-explorer-interactive-tool
 <br><br>
 <H2>Related Projects </H2>
 -<a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> The Community Explorer (17 profiles based on 751 factors) </a> <br>
@@ -107,7 +110,9 @@ Census Bureau's American Community Survey. <br>
 -<a href="https://miresearch.github.io/COVID-19-Community-Explorer-8profiles/" target="_blank"> COVID-19 Community Explorer (8 Profiles)</a> <br>
 -<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
 <Br>
-  
+
+
+
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 
 
