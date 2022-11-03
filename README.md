@@ -56,8 +56,8 @@ It groups a wide variety of data—from economic and demographic numbers to educ
 
 When using the Community Explorer interactive tool, users can alternate between two ways to access the data:
 <ul>
-  <li>“County-focused” displays the information from the perspective of the communities created by our analysis, presenting the different socio-economic aspects of each county in each community. The headline contains active county information, while the bottom provides the possibility to access 29 interactive charts with detailed information about a county, profile, and the US average for each variable.</li>
-  <li>“Variable-focused” displays the information from the perspective of (only) one variable while still providing unique information about counties and communities at the tooltip. The two dropdowns allow to group the data by the communities and chart categories used in the “County-focused” display.</li>
+  <li><b>County-focused</b> displays the information from the perspective of the communities created by our analysis, presenting the different socio-economic aspects of each county in each community. The headline contains active county information, while the bottom provides the possibility to access 29 interactive charts with detailed information about a county, profile, and the US average for each variable.</li>
+  <li><b>Variable-focused</b> displays the information from the perspective of (only) one variable while still providing unique information about counties and communities at the tooltip. The two dropdowns allow to group the data by the communities and chart categories used in the “County-focused” display.</li>
 </ul>
   
  **Select or search a county, profile, or group of profiles using the drop-down menus on the top of the map. Use drop-down menus on the top of charts to select different information; the corresponding charts compare the county, profile, and US information. <b><br>
